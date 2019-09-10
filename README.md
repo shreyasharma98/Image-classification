@@ -14,8 +14,8 @@ from keras.models import Sequential     #for Ann full connection
 
 
 ## CNN - Convolution Neural Network
- Step 1: Convolution Operation
- Step 1(b): ReLU Layer
- Step 2: Pooling
- Step 3: Flattening
- Step 4: Full Connection
+Step 1: Convolution Operation
+Step 1(b): ReLU Layer
+Step 2: Pooling
+Step 3: Flattening
+Step 4: Full Connection
