@@ -34,3 +34,8 @@ This is a basic implementation of image classification using CNN. As we know , K
       Step 2: Pooling.
       Step 3: Flattening.
       Step 4: Full Connection.
+      
+      
+# RESULT
+The results for test images : https://github.com/shreyasharma98/Image-classification/blob/master/list.csv
+
