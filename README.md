@@ -9,8 +9,6 @@ There's also a test directory which contain some random images , the aim is to c
 
 https://drive.google.com/open?id=1Iei0n3Dk5xJCzF3aFOR8in6G3cNLEy8z
 
-## view to data
-
 ### Category 1 :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Category 2 : 
 <img src = "/pic/category 1_original_1013.png_bb7b257a-cd09-4d23-86b6-9de65832f938.png"  width="200" height="200"  /><img src="/pic/category 1_original_1013.png_bc4d56ae-3287-44e5-8e07-f227b0e11e4d.png"   width="200" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "/pic/category 2_original_6000.png_8b9bab98-f39d-4ef7-b662-b634f15873f4.png"  width="200" height="200"  /><img src="/pic/category 2_original_6010.png_aeacf8a0-2f49-407f-83df-6d122e48adb8.png"   width="200" height="200"/> 
 
