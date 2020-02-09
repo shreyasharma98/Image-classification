@@ -5,7 +5,7 @@ Using Keras
 This is an internship project where I was given an organised training set that has 4 defined directories for 4 categories . 
 There's also a test directory which contain some random images , the aim is to classify the images in the test dir. based on training set . The results should be stored in the csv file which contain 2 column : 1 - Image file path 2- The predicted category .  
 
-# Data set : 
+# Image Data set : 
 
 https://drive.google.com/open?id=1Iei0n3Dk5xJCzF3aFOR8in6G3cNLEy8z
 
