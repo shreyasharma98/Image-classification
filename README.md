@@ -12,14 +12,11 @@ https://drive.google.com/open?id=1Iei0n3Dk5xJCzF3aFOR8in6G3cNLEy8z
 ## view to data
 
 ### Category 1 :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Category 2 : 
-<img src = "/pic/category 1_original_1013.png_bb7b257a-cd09-4d23-86b6-9de65832f938.png"  width="200" height="200"  /><img src="/pic/category 1_original_1013.png_bc4d56ae-3287-44e5-8e07-f227b0e11e4d.png"   width="200" height="200"/> 
-
-<img src = "/pic/category 2_original_6000.png_8b9bab98-f39d-4ef7-b662-b634f15873f4.png"  width="200" height="200"  /><img src="/pic/category 2_original_6010.png_aeacf8a0-2f49-407f-83df-6d122e48adb8.png"   width="200" height="200"/> 
+<img src = "/pic/category 1_original_1013.png_bb7b257a-cd09-4d23-86b6-9de65832f938.png"  width="200" height="200"  /><img src="/pic/category 1_original_1013.png_bc4d56ae-3287-44e5-8e07-f227b0e11e4d.png"   width="200" height="200"/> <img src = "/pic/category 2_original_6000.png_8b9bab98-f39d-4ef7-b662-b634f15873f4.png"  width="200" height="200"  /><img src="/pic/category 2_original_6010.png_aeacf8a0-2f49-407f-83df-6d122e48adb8.png"   width="200" height="200"/> 
 
 ### Category 3 :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Category 4 :
 
-<img src = "/pic/category 3_original_4000.png_b86d6a8c-14da-4af8-861f-9cae6a870f03 (1).png"  width="200" height="200"  /><img src="/pic/category 3_original_4000.png_e644cef7-524c-4694-957d-7e88320c11f6.png"   width="200" height="200"/> 
-<img src = "/pic/category 4_original_C000.png_ffdbf440-bd70-469f-a7eb-3aed46400edb.png"  width="200" height="200"  /><img src="/pic/category 4_original_C010.png_2c356427-d1b3-4ef8-b7fb-fdc707b88100.png"   width="200" height="200"/> 
+<img src = "/pic/category 3_original_4000.png_b86d6a8c-14da-4af8-861f-9cae6a870f03 (1).png"  width="200" height="200"  /><img src="/pic/category 3_original_4000.png_e644cef7-524c-4694-957d-7e88320c11f6.png"   width="200" height="200"/> <img src = "/pic/category 4_original_C000.png_ffdbf440-bd70-469f-a7eb-3aed46400edb.png"  width="200" height="200"  /><img src="/pic/category 4_original_C010.png_2c356427-d1b3-4ef8-b7fb-fdc707b88100.png"   width="200" height="200"/> 
 
 # The imports
 
